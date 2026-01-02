@@ -4,7 +4,7 @@ A simple, modern and fully-featured To-Do application built using React + Vite.
 This app helps users manage daily tasks with features like search, filters, local storage, drag-and-drop reorder and more.
 
 🚀 Demo
-to-do-application-kqn7.vercel.app
+https://to-do-application-kqn7.vercel.app/
 
 ✨ Features
 
